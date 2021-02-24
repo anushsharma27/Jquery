@@ -1,0 +1,28 @@
+.button a{
+background-color: grey;
+align:center;
+  border: none;
+  color:black;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button{
+    align-self: center;
+}
+
+button{
+  background-color: pink;
+  color:black;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+p
+{
+  font-size: 30px;
+}
