@@ -1,7 +1,8 @@
 
 $("button").ready(function()
     {
-        $("button").click(function()
+        
+        $("button").onclick(function()
         {
             $("img").toggle();
         });

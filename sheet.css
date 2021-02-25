@@ -1,0 +1,26 @@
+.ui-widget-header,.ui-state-default, ui-button {
+    background:cornsilk;
+    border: 1px solid cornsilk;
+    color: #FFFFFF;
+    font-weight: bold;
+ }  
+
+ #opener{
+    display: flex;
+    background-color: blue;
+    border: none;
+    color:black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:680px;
+    margin-right:auto;
+     
+ }
+
+ #dialog-1{
+     background-color:orange;
+ }
+
